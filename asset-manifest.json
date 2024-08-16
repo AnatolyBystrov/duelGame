@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/duelGame/static/js/main.ae89e92f.js",
+    "index.html": "/duelGame/index.html",
+    "main.ae89e92f.js.map": "/duelGame/static/js/main.ae89e92f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ae89e92f.js"
+  ]
+}
